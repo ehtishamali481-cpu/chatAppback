@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Messaging Backend API",
+  "description": "Production-ready REST API and Socket.IO real-time messaging backend for WhatsApp-style web applications with Mongoose, JWT, groups, communities, status, media uploads, and security best practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
